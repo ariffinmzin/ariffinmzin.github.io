@@ -1,5 +1,5 @@
 ---
-title: "Mastering Laravel 101: A Casual Walkthrough for Beginners"
+title: "Mastering Laravel 101"
 author: ariffin
 date: 2023-06-23 10:35:00 +0800
 categories: [Blogging, Laravel]
