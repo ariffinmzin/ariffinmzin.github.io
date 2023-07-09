@@ -23,7 +23,7 @@ title: Nur Ariffin Mohd Zin # the main title
 tagline: Ariffin is a tech enthusiast who likes to stay updated about the trending technologies of today. He is passionate about all things technology, a keen researcher, and loves to code. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A blog documenting my journey in coding and related technological explorations.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://username.github.io"
